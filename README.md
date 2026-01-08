@@ -41,7 +41,7 @@ Adverse Outcome Pathways (AOPs) are conceptual frameworks that describe how chem
 - **🛣️ Pathway Analysis**: KEGG and SMPDB pathway enrichment analysis
 - **🏥 Disease Ontology (DO) Analysis**: Disease association mapping and clinical relevance prioritization
 - **🌐 AOP Network Visualization**: Interactive network graphs
-- 
+
 
 ## 🏗️ Project Structure
 
