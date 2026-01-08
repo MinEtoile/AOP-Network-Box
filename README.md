@@ -60,8 +60,7 @@ Adverse Outcome Pathways (AOPs) are conceptual frameworks that describe how chem
 ├── 3_GO.R                  # Gene Ontology enrichment analysis
 ├── 4_Pathway.R             # Pathway analysis (KEGG, SMPDB)
 ├── 5_DO.R                  # Disease Ontology analysis
-├── 6_AOP.R                 # AOP network visualization
-└── contact.R               # Contact and help information
+└── 6_AOP.R                 # AOP network visualization
 ```
 
 ## 🚀 Quick Start
